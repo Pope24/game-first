@@ -31,7 +31,6 @@ sysinfo.txt
 
 # Unity cache and other auto-generated files
 MemoryCaptures/
-Assets/StreamingAssets/aa.meta
 
 # Packed Addressables (optional)
 Assets/AddressableAssetsData/*/BuildScript*
@@ -54,3 +53,5 @@ Assets/AddressableAssetsData/*/AssetBundleBuilds/
 # Windows system files
 Thumbs.db
 Desktop.ini
+
+!*.meta
